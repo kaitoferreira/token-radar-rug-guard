@@ -1,5 +1,9 @@
 # Rug-Guard Radar — token-radar-01
 
+[![make.fun · token-radar-01](https://make.fun/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![rank](https://make.fun/badge/token-radar-01/kaitoferreira/token-radar-rug-guard/rank.svg)](https://make.fun/bounty/token-radar-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![reward](https://make.fun/badge/token-radar-01/kaitoferreira/token-radar-rug-guard/reward.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+
 Pre-token protocols ranked by **risk-adjusted implied value**: size,
 growth and maturity, discounted by a five-signal rug score. The angle is
 rug detection: a protocol whose TVL is fleeing, that is young, single-chain
